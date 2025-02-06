@@ -1,0 +1,126 @@
+@media (max-width:500px) {
+    #bg-photo{
+        height: 700px;
+    }
+}
+
+#me-nu{
+    background-color: rgba(111, 111, 117, 0.322);
+}
+#brand{
+    font-weight: 700;
+}
+.collapse ul{
+    margin-right: 20px;
+    gap: 20px;
+}
+#bg-photo{
+    width: 100%;
+    height: 400px;
+    background: url(images/bg-section.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 120px;
+}
+.section h2{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+#search-form{
+    border-radius: 5px;
+    border: 2px solid ;
+    padding-left: 10px;
+}
+#form1{
+    margin-bottom: 20px;
+}
+#title-section2{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.footer{
+    background-color: rgba(111, 111, 117, 0.322);
+    text-align: center;
+    margin-top: 20px;
+    height: 30px;
+    padding: 5px;
+}
+
+/*add recipe page*/
+#add-recipe-form{
+    margin: 30px; 
+}
+#preview img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-top: 10px;
+}
+
+/*new info page*/
+#new-information{
+    max-width: 900px;
+    justify-self:center;
+}
+#learn .card{
+    justify-self:center;
+
+}
+
+/* comment and like*/
+.btn-icon {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    color: black;
+}
+.btn-icon:hover {
+    color: gray;
+}
+.like-btn .bi-heart-fill {
+    color: red;
+}
+
+/* review recipe page*/
+#reviewRicipeIMG{
+    border-radius: 15px;
+    margin: 0 35px 0 20px;
+}
+#reviewRicipeIMG img{
+    max-width: 450px;
+    max-height: 400px;
+    border-radius: 15px;
+    margin: 25px;
+    float: right;
+}
+#leave_comments{
+    margin: 0 35px 0 20px;
+}
+
+/*contact page*/
+
+#list-contact{
+    align-self: center;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 100px;
+}
+#media-icon {
+    margin-top: 50px;
+}
+#media-icon a{
+    padding: 10px;
+    display: inline;
+    
+}
+/*cards*/
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+#card-recipe:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
