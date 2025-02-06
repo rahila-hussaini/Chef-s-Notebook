@@ -21,10 +21,10 @@
 <ol>
   <li>Clone the repository: <br>
     git clone
-    https://github.com/rahila-hussaini/chef-s-notebook.git </li>
+    https://github.com/rahila-hussaini/Chef-s-Notebook.git </li>
   <li>Open the index.html file in your browser.</li>
 </ol>
-<p> OR    <a href="https://rahila-hussaini.github.io/Chef-s-Notebook/">see live</a> </p>
+<p> OR    <a href="https://rahila-hussaini.github.io/Chef-s-Notebook/index.html">see live</a> </p>
 
 ### 🌟 Contributing
 Feel free to fork this project, suggest improvements, or add new features!
